@@ -1,6 +1,6 @@
 package com.emp.bean;
 
-//部门实体类
+//部门实体类 you can you up
 public class Dept {
 	private String deptno;// 部门编号
 	private String dname;// 部门名称
