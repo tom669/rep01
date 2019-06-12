@@ -10,7 +10,7 @@ import java.util.List;
 import com.emp.bean.Dept;
 import com.emp.util.DBUtils;
 
-//操作 t_dept表
+//操作 t_dept表   you can you up  哈哈哈
 public class DeptDao {
     //查询所有部门记录
 	public List<Dept> queryAll() throws SQLException{
